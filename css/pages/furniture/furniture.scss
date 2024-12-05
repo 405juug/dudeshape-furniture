@@ -1,0 +1,42 @@
+.furniture__container{
+    margin-top: 200px;
+    height: 383px;
+    width: 1200px;
+    display: flex;
+}
+
+.furniture__text{
+    width: 820px;
+    height: 123px;
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.furniture__title{
+    margin-bottom: 25px;
+    font-family: 'montserrat';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 52px;
+}
+
+.furniture__smalltext{
+    font-family: 'dm-sans-light';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.furniture__cardimg{
+    width: 380px;
+    height: 246px;
+}
+
+.furniture__card{
+    width: 380px;
+    height: 382px;
+}
+
+.furniture__cardsblock{
+    display: flex;
+}

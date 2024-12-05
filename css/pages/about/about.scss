@@ -1,0 +1,82 @@
+.about__container{
+    display: flex;
+    margin-top: 150px;
+    flex-direction: row;
+    width: 1170px;
+    justify-content: center;
+}
+
+.about__img1{
+    position: absolute;
+    width: 596px;
+    height: 577px;
+}
+
+.about__img2{
+    width: 632px;
+    height: 587px;
+    margin-top: 20px;
+}
+
+.about__block{
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.about__text{
+    width: 436px;
+    height: 135px;
+}
+
+.about__title{
+    font-family: 'montserrat';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: var(--dark-green);
+}
+
+.about__maintext{
+    margin-top: 10px;
+    font-family: 'dm-sans-light';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.about__card{
+    width: 377px;
+    height: 92px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.about__cardblock{
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
+.about__cardtitle{
+    font-family: 'montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    color: var(--dark-green);
+    margin-bottom: 10px;
+}
+
+.about__cardsmalltext{
+    font-family: 'dm-sans-light';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 30px;
+    width: 271px;
+}
+
+.about__cardimg{
+    margin-right: 30px;
+}

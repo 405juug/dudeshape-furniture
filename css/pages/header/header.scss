@@ -1,0 +1,44 @@
+.header{
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+
+.header__container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo img{
+    vertical-align: middle;
+}
+
+.header__nav-menu{
+    display: flex;
+    gap: 50px;
+    font-family: 'dm-sans-light';
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--dark);
+}
+
+.nav-menu__link:visited, :active{
+    color: var(--dark);
+}
+
+.nav-menu__item:hover{
+    border-bottom: 1px solid var(--dark);
+}
+
+
+
+
+
+.header__menu{
+    display: flex;
+    gap: 30px;
+}
+
+.nav-menu__item{
+    line-height: 20.83px;
+}
+

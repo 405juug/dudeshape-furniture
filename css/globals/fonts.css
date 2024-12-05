@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'montserrat-xbold';
+    font-weight: 700;
+    src: url(/fonts/montserrat/Montserrat-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'montserrat-bold';
+    font-weight: 700;
+    src: url(/fonts/montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'dm-sans-reg';
+    font-weight: 400;
+    src: url(/fonts/dm-sans/DMSans-Black.ttf);
+}
+
+@font-face {
+    font-family: 'dm-sans-light';
+    font-weight: 400;
+    src: url(/fonts/dm-sans/DMSans-Light.ttf);
+}
+
+@font-face {
+    font-family: 'dm-sans-bold';
+    font-weight: 700;
+    src: url(/fonts/dm-sans/DMSans-Bold.ttf);
+}

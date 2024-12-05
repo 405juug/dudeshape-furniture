@@ -1,0 +1,27 @@
+.companies__container {
+  width: 1082px;
+  height: 133px;
+  margin-top: 133px;
+}
+
+.companies__title {
+  text-align: center;
+  font-family: "dm-sans-bold";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 42px;
+  color: var(--dark-green);
+}
+
+.companies__list {
+  margin-top: 50px;
+  height: 52px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 1082px;
+}
+
+.companies__img {
+  height: 40px;
+}/*# sourceMappingURL=companies.css.map */
